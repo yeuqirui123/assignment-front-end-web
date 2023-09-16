@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to left, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+    background-image: url('../Photos/puppy.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: #f4f4f4;
+    width: 100%;
+    height: 120vh;
+    margin: 0 auto;
+}
+
+/* header */
+.navbar {
+    background-color: #333;
+    width: 100%;
+}
+
+.navbar-brand {
+    font-size: 24px;
+    color: #fff;
+}
+
+.nav-link {
+    font-size: 18px;
+    color: #fff;
+}
+
+.nav-item {
+    margin-right: 20px;
+}
